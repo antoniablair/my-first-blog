@@ -10,7 +10,7 @@ If you are here for a PyLadies Visual Studio Code workshop, you only need to dow
 However, if you are curious and would like to run the app locally, you can do the following:
 
 - Clone the repo and go into the directory
-- Make sure you have Django installed (`pip3 install -r requirements.txt`). Ideally, you will want to do this in a virtual environment. 
+- `pip3 install -r requirements.txt` to install Django. Ideally, you will want to do this in a virtual environment. 
 - Set up your database migrations `python manage.py makemigrations`
 - Start the server: `python manage.py runserver`
 
