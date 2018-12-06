@@ -1,6 +1,6 @@
 # Django tutorial from Django Girls
 
-If you don't know Django Girl and would like to try to build this blog, you can check out their tutorial [here](https://tutorial.djangogirls.org/).
+If you don't know Django Girls and would like to try to build this blog, you can check out their tutorial [here](https://tutorial.djangogirls.org/).
 
 This repo has been updated to work with `python3`. 
 
